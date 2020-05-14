@@ -1,0 +1,19 @@
+head body.bgbook {
+	background-image: url('assets/bks.png') !important;
+	background-size: auto;
+	background-repeat: no-repeat;
+	background-position: auto !important;
+	background-attachment: scroll;
+	background-size: cover !important;
+	background-attachment: fixed;
+	background-color: darkseagreen;
+}
+
+body div.container.bg-book {
+	background-image: url('assets/book1.jpg') !important;
+	background-size: auto;
+	background-repeat: no-repeat;
+	background-position: center center !important;
+	background-size: cover !important;
+	background-color: darkseagreen;
+}
